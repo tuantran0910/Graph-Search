@@ -3,6 +3,7 @@ Data Structure and Algorithms Final Project 21KDL1 VNU-HCMUS
 
 ## Requirement
 Python Environment version 3.9.12 or newer.
+
 Pygame Python library version 2.1.2.
 
 ## Usage
