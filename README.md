@@ -8,5 +8,7 @@ Pygame Python library version 2.1.2.
 
 ## Usage
 1. Clone this repository to the machine.
+
 2. Open main.py in Python environment.
+ 
 3. Call main.py via command. E.g: python main.py --algo DFS --start 71 --goal 318
