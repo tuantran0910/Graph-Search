@@ -51,7 +51,7 @@ Where,
 For example, to perform a graph search using the Depth-First Search algorithm, starting from node 71 and aiming to reach node 318:
 
 ```python
-python main.py --algo DFS --start 71 --goal 318
+python src/main.py --algo DFS --start 71 --goal 318
 ```
 
 ## Contribution
