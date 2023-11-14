@@ -3,6 +3,7 @@
 ## Introduction
 
 > This practical final project is part of the Data Structures & Algorithms course in the field of Data Science at VNUHCM - University of Science.
+> 
 > The majority of the code for this project was provided by my lab instructor, Mr. Nguyen Bao Long. In this project, my main contribution is in the ```SearchAlgorithms.py``` file.
 
 ![image](https://github.com/TuanTran0910/Graph-Search/assets/94174684/a487c1b1-ff27-4bbb-9fd4-7393894d1255)
